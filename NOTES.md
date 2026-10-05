@@ -21,3 +21,7 @@ Permission that I've added:
 
 What can go wrong without deny rule is that Claude can read my .env variable which can contains secret key
 
+
+Verification:
+- `/memory` shows `CLAUDE.md` loaded.
+- `/permissions` shows the allow, ask, and deny rules from `.claude/settings.json`.

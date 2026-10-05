@@ -5,7 +5,7 @@ Express REST API (users + health check) backed by an in-memory store; used as th
 ## Commands
 
 - `npm run dev` — start the API on http://localhost:3000 with `node --watch` (port from `PORT`)
-- `npm test` — run all tests with Node's built-in runner (`node --test`)-
+- `npm test` — run all tests with Node's built-in runner (`node --test`)
 - `npm run lint` — ESLint (`eslint:recommended`); CI runs lint then tests on Node 22
 
 ## Conventions
